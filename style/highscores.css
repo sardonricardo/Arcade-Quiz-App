@@ -1,0 +1,23 @@
+#highScoreList {
+    list-style: none; /*Para quitar los puntos*/
+    padding-left: 0;
+    margin-bottom: 4rem;
+    
+}
+
+#highScores {
+    
+    font-size: 2.8rem;
+    margin-bottom: 0.5rem;
+    
+}
+
+.high-score:hover {
+    transform: scale(1.025)
+}
+
+li {
+    color: rgb(255, 86, 24);
+}
+
+
